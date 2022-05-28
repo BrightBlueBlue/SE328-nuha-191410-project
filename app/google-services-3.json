@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "937724668872",
+    "firebase_url": "https://nuha-191410-default-rtdb.firebaseio.com",
+    "project_id": "nuha-191410",
+    "storage_bucket": "nuha-191410.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:937724668872:android:4b1c9f9076a0eaa7f5aefd",
+        "android_client_info": {
+          "package_name": "com.example.se328_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "937724668872-mkmr3pj236cs74m94sqddvi72schuqu7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMFLpPfvaOFIiuI0GQIT5nLdyZAvIlvZE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "937724668872-mkmr3pj236cs74m94sqddvi72schuqu7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SE328 - project</string>
+    <string-array name="spinner">
+        <item>London</item>
+        <item>Riyadh</item>
+        <item>Dubai</item>
+        <item>Berlin</item>
+    </string-array>
+</resources>
